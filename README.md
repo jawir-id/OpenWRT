@@ -1,4 +1,10 @@
-# OpenWRT
+Daftar Isi
+Tentang Proyek
+Instalasi
+Cara Penggunaan
+Kontribusi
+# Lisensi #
+
 # User password Helmiwrt 
             user: root
         password: hutri77
