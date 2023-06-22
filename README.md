@@ -10,12 +10,12 @@
  ## User Login Admin Helmiwrt
             user: root
         password: hutri77
-       MediaFire: http://surl.li/iiizj
+       Download File: http://surl.li/iiizj
        
 ## User Login Admin RooTerWRT
             User: root
         Password: radenku.com
-        MediaFire: http://surl.li/iijdn
+       Download File: http://surl.li/iijdn
 
 ### Devices
 
