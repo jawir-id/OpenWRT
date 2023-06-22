@@ -1,5 +1,5 @@
 <div align="center">
-        <h1>Openwrt</h1>
+        <h1>Openwrt Firmware</h1>
     <p> </p>
 </div>
 
@@ -7,12 +7,12 @@
 
 ## 🚀 Memulai
 
- ## User password Helmiwrt
+ ## User Login Admin Helmiwrt
             user: root
         password: hutri77
        MediaFire: http://surl.li/iiizj
        
-## User Password RooTerWRT
+## User Login Admin RooTerWRT
             User: root
         Password: radenku.com
         MediaFire: http://surl.li/iijdn
