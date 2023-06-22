@@ -8,6 +8,6 @@
 # User Password RooTerWRT
             User: root
         Password: radenku.com
-        MediaFire: ( http://surl.li/iijdn )
+        MediaFire: http://surl.li/iijdn
         
 
