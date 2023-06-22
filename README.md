@@ -11,7 +11,7 @@
             user: root
         password: hutri77
        Download File: http://surl.li/iiizj
-       <a href=" File: http://surl.li/iiizj">MediaFire</a>
+    
        
 ## User Login Admin RooTerWRT
             User: root
@@ -22,3 +22,4 @@
 
 - Laptop Seri 2008-2009 &#8593;
 - STB Root
+   <a href=" File: http://surl.li/iiizj">MediaFire</a>
