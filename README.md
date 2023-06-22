@@ -17,11 +17,7 @@
         Password: radenku.com
         MediaFire: http://surl.li/iijdn
 
-### Persyaratan
+### Devices
 
-- Persyaratan pertama
-- Persyaratan kedua
-
-### Instalasi
-
-
+- Laptop Seri 2008-2009 &#8593;
+- STB Root
