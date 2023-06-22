@@ -2,7 +2,7 @@
 # User password Helmiwrt 
             user: root
         password: hutri77
-       MediaFire: <http://surl.li/iiizj>
+       MediaFire: < http://surl.li/iiizj >
        
 # User Password RooTerWRT
             User: root
