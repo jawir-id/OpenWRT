@@ -1,5 +1,4 @@
 # OpenWRT
-
 # User password Helmiwrt 
             user: root
         password: hutri77
